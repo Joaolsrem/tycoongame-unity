@@ -1,4 +1,4 @@
-# tycoongame-unity
+# TycoonGame
 
 You need if approach of Ore, And click very fast the Key of you keyboard E, you going get 2 ores, you are doing this for get ores, With ores you can buy a boost of ores or can buy a NPC to miner to you.  
 
